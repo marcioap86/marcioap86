@@ -1,7 +1,7 @@
 # Sobre mim
 
 *Olá, meu nome é **marcioap86**
-* Meu email de contato é email[](marciofranemanuel@gmail.com)
+* Meu email de contato é  marciofranemanuel@gmail.com
 * Eu estou interessado a aprender a prograr novas liguagens 👍
 * Estou aprenden  a programar recentemente a linguagem de Java Script e Scratch
 * Estou estudando altualmente as lingugens html 5 e css 3
